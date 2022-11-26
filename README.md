@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">Fullstack Developer 🚀</h3>
+<img src="https://i.ibb.co/yydSWvW/Github.png" alt="Github" border="0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssr-sa&label=Profile%20views&color=0e75b6&style=flat" alt="ssr-sa" /> </p>
 
