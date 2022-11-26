@@ -108,6 +108,4 @@
     />
   </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssr-sa&show_icons=true&locale=en&layout=compact" alt="ssr-sa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssr-sa&show_icons=true&locale=en" alt="ssr-sa" /></p>
+![snake svg](https://github.com/ssr-sa/ssr-sa/blob/output/github-contribution-grid-snake.svg)
