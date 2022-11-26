@@ -1,4 +1,4 @@
-<img align="right" alt="banner" src="https://drive.google.com/file/d/1PJ3KBRQzr_yLe1lptS4pvdq2MPbrf2u4/view?usp=share_link" width="auto" />
+<img align="right" src="https://i.ibb.co/yydSWvW/Github.png" alt="Github" border="0">
 
 <p align="left">
   <img
