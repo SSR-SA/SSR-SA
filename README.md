@@ -1,8 +1,4 @@
-github profile markdown generator logo GitHub Profile README Generator Star this
-repo 13443 Fork on GitHub 3535 back to edit copied download markdown download
-backup preview
-<h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">Fullstack Developer 🚀</h3>
+<img align="right" alt="banner" src="https://drive.google.com/file/d/1PJ3KBRQzr_yLe1lptS4pvdq2MPbrf2u4/view?usp=share_link" width="auto" />
 
 <p align="left">
   <img
@@ -12,8 +8,11 @@ backup preview
 </p>
 
 - 💬 Ask me about **react, node, express, MongoDB, Postgresql, Docker, Bash,
-Python, Tensorflow** - 📫 How to reach me **saishriram22@gmail.com** - ⚡ Fun
-fact **I learn everyday 👀** ### Blogs posts
+Python, Tensorflow** 
+- 📫 How to reach me **saishriram22@gmail.com** 
+- ⚡ Fun fact **I learn everyday 👀** 
+
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
